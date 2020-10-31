@@ -1,7 +1,7 @@
 import cn from 'classnames'
 import Link from 'next/link'
 
-export default function CoverImage({ title, src, slug }) {
+export default function CoverImage({ title, src, slug, link }) {
   const image = (
     <img
       src={src}
@@ -13,7 +13,7 @@ export default function CoverImage({ title, src, slug }) {
   )
   return (
     <div className="-mx-5 sm:mx-0">
-      {image}
+      {/* {image} */}
       {/* {slug ? (
         <Link as={`/posts/${slug}`} href="/posts/[slug]">
           <a aria-label={title}>{image}</a>
@@ -21,6 +21,13 @@ export default function CoverImage({ title, src, slug }) {
       ) : (
         image
       )} */}
+      {link ? (
+        <Link as={`${link}`} href="[link]">
+          <a target="_blank" aria-label={title}>{image}</a>
+        </Link>
+      ) : (
+        image
+      )}
     </div>
   )
 }
