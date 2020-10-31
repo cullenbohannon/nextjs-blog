@@ -10,6 +10,7 @@ export default function HeroPost({
   excerpt,
   author,
   slug,
+  link,
 }) {
   return (
     <section>
