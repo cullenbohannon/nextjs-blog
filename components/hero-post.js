@@ -20,8 +20,8 @@ export default function HeroPost({
       <div className="md:grid md:grid-cols-2 md:col-gap-16 lg:col-gap-8 mb-20 md:mb-28">
         <div>
           <h3 className="mb-4 text-4xl lg:text-6xl leading-tight">
-            <Link as={`${link}`} href="[link]" target="_blank">
-              <a className="hover:underline">{title}</a>
+            <Link as={`${link}`} href="[link]">
+              <a target="_blank" className="hover:underline">{title}</a>
             </Link>
           </h3>
           <div className="mb-4 md:mb-0 text-lg">
