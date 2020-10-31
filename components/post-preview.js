@@ -21,8 +21,8 @@ export default function PostPreview({
         {/* <Link as={`/posts/${slug}`} href="/posts/[slug]">
           <a className="hover:underline">{title}</a>
         </Link> */}
-        <Link as={`${link}`} href="[slug]" target="_blank">
-          <a className="hover:underline">{title}</a>
+        <Link as={`${link}`} href="[link]">
+          <a target="_blank" className="hover:underline">{title}</a>
         </Link>
       </h3>
       <div className="text-lg mb-4">
