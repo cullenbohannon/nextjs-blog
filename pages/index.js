@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>DUMA ZILEI - Cu Duma Minodora</title>
         </Head>
         <Container>
           <Intro />
@@ -26,6 +26,7 @@ export default function Index({ allPosts }) {
               author={heroPost.author}
               slug={heroPost.slug}
               excerpt={heroPost.excerpt}
+              link={heroPost.link}
             />
           )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
@@ -43,6 +44,7 @@ export async function getStaticProps() {
     'author',
     'coverImage',
     'excerpt',
+    'link'
   ])
 
   return {

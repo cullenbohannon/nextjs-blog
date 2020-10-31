@@ -1,13 +1,14 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: 'Dominic, Neamt Comunist Bolsevic'
+excerpt: '...uitați-vă pe pagina lui de FB să vedeți ce elogii îi sunt aduse acestui comunist din Germania!!Mă ingrozesc când văd ce oameni trăiesc în Banat, cum apreciază o caricatură de neamț comunist-bolșevic!!!Nu a realizat mai nimic nici în Germania, iar la noi în Timișoara este elogiat ca un erou!!Jalnic au ajuns unii!!🤮'
+coverImage: '/assets/blog/neamt-comunist-bolsevic/cover.jpg'
+date: '2020-10-29T05:35:07.322Z'
+link: 'https://www.facebook.com/permalink.php?story_fbid=3625073134203861&id=172674319443777&comment_id=3625786424132532&reply_comment_id=3626441700733671'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Duma Minodora
+  picture: '/assets/blog/authors/duma.jpeg'
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/neamt-comunist-bolsevic/cover.jpg'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
