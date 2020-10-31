@@ -21,13 +21,13 @@ export default function CoverImage({ title, src, slug, link }) {
       ) : (
         image
       )} */}
-      {link ? (
+      {/* {link ? (
         <Link as={`${link}`} href="[link]">
           <a target="_blank" aria-label={title}>{image}</a>
         </Link>
       ) : (
         image
-      )}
+      )} */}
     </div>
   )
 }
