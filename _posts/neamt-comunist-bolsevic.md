@@ -1,5 +1,5 @@
 ---
-title: 'Dominic, Neamt Comunist Bolsevic'
+title: '[Dominic], Neamț Comunist-Bolșevic'
 excerpt: '...uitați-vă pe pagina lui de FB să vedeți ce elogii îi sunt aduse acestui comunist din Germania!!Mă ingrozesc când văd ce oameni trăiesc în Banat, cum apreciază o caricatură de neamț comunist-bolșevic!!!Nu a realizat mai nimic nici în Germania, iar la noi în Timișoara este elogiat ca un erou!!Jalnic au ajuns unii!!🤮'
 coverImage: '/assets/blog/neamt-comunist-bolsevic/cover.jpg'
 date: '2020-10-29T05:35:07.322Z'
